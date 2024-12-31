@@ -63,7 +63,7 @@ Developed by: OBELESH R  RegisterNumber: 24901123
 ![Screenshot 2024-12-31 231809](https://github.com/user-attachments/assets/1086f399-35e6-40fb-a154-55c5f1358bae)
 
 **RESULTS**
-
+Thus the full adder and subtractor circuits are designed and the truth table is verified using Quartus softwate.
 
 
 
